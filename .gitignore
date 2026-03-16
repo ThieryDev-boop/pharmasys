@@ -1,0 +1,16 @@
+# Fichier : .gitignore
+ 
+# Variables d'environnement (CRITIQUE)
+.env
+ 
+# Dépendances
+vendor/
+node_modules/
+ 
+# Fichiers systèmes
+.DS_Store
+Thumbs.db
+ 
+# Logs
+*.log
+logs/

@@ -1,2 +1,2 @@
 # pharmasys
-application de gestion des pharmacies
+application de gestion des pharmacies selon le systeme camerounais
